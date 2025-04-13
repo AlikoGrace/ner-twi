@@ -8,6 +8,7 @@ This project aims to build a Named Entity Recognition (NER) system for Twi,a maj
 - `LOC`: Location
 - `ORG`: Organization
 - `DATE`: Dates
+- `MISC`: Proper Nouns not belonging to the above categories, eg Odwira(festival)
 
 ## Project Structure
 
